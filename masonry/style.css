@@ -1,29 +1,7 @@
-@font-face {
-    font-family: 'VerilySerifMonoBook';
-    src: url('../font/Verily-Serif/VerilySerifMono-webfont.eot');
-    src: url('../font/Verily-Serif/VerilySerifMono-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../font/Verily-Serif/VerilySerifMono-webfont.woff') format('woff'),
-         url('../font/Verily-Serif/VerilySerifMono-webfont.ttf') format('truetype'),
-         url('../font/Verily-Serif/VerilySerifMono-webfont.svg#VerilySerifMonoBook') format('svg');
-    font-weight: normal;
-    font-style: normal;
 
-}
-
-@font-face {
-    font-family: 'LatinModernMono10Regular';
-    src: url('../font/Latin-Modern/lmmono10-regular-webfont.eot');
-    src: url('../font/Latin-Modern/lmmono10-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../font/Latin-Modern/lmmono10-regular-webfont.woff') format('woff'),
-         url('../font/Latin-Modern/lmmono10-regular-webfont.ttf') format('truetype'),
-         url('../font/Latin-Modern/lmmono10-regular-webfont.svg#LatinModernMono10Regular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
 
 body {
-    font-family: 'LatinModernMono10Regular', Arial, sans-serif;
+    font-family:  Arial, sans-serif;
     color: #393939;
     font-size: 16px;
     padding: 10px;
